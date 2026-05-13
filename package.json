@@ -1,0 +1,20 @@
+{
+  "name": "Aul1",
+  "version": "1.0.0",
+  "description": "aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brug-buo/Aul1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brug-buo/Aul1/issues"
+  },
+  "homepage": "https://github.com/Brug-buo/Aul1#readme"
+}
